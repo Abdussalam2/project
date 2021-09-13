@@ -1,0 +1,106 @@
+
+
+* { 
+		 padding: none;
+		 box-sizing: border-box; 
+ 		 margin: none; 
+ } 
+ 
+span{
+        padding: 5px 10px;
+        outline: none; 
+        border: none;
+        font-size: 45px;
+        font-family: italic;
+        color: yellow;
+        border-radius: 6px;
+        background-color: maroon;
+        text-shadow: 1px 3px 1px;  
+
+}
+
+body { 
+				background-color: #224315;
+ 				padding: 1rem; 
+ } 
+ 
+ input { 
+  				padding: 5px 10px;
+  				outline: none; 
+  				border: none;
+  				font-size: 15px;
+  				font-family: vanderna;
+  				border-radius: 5px;
+                background-color: pink;
+                width: 300px; 
+  } 
+ 
+ #phone {
+                padding: 5px 10px;
+                outline: none; 
+                border: none;
+                font-size: 15px;
+                font-family: vanderna;
+                border-radius: 5px;
+                background-color: pink;
+                width: 220px; 
+
+}
+
+ #countrycode {
+                padding: 5px 10px;
+                outline: none; 
+                border: none;
+                font-size: 15px;
+                font-family: vanderna;
+                border-radius: 10px;
+                background-color: pink;
+                width: 80px; 
+    }
+
+
+ #country {
+                padding: 5px 10px;
+                outline: none; 
+                border: none;
+                font-size: 15px;
+                font-family: vanderna;
+                border-radius: 5px;
+                background-color: pink;
+                width: 300px; 
+}
+ 
+  #continent {
+                padding: 5px 10px;
+                outline: none; 
+                border: none;
+                font-size: 15px;
+                font-family: vanderna;
+                border-radius: 5px;
+                background-color: pink;
+                width: 300px; 
+}
+
+ #gender {
+                padding: 5px 10px;
+                outline: none; 
+                border: none;
+                font-size: 15px;
+                font-family: vanderna;
+                border-radius: 5px;
+                background-color: pink;
+                width: 300px; 
+}
+
+
+  button { 
+  			  padding: 5px 10px;
+  			  border: none; 
+  			  border-radius: 5px; 
+  			  background-color: #625613;
+  			  cursor: pointer; 
+  			  font-size: 15px; 
+  			  font-family: vanderna;
+              width: 80px; 
+  			  }
+
