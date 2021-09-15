@@ -6,6 +6,23 @@
  		 margin: none; 
  } 
  
+.parent {
+  display: flex;
+  justify-content: flex-end;
+  background-color: black;
+}
+
+.children {
+  background-color: dodgerblue;
+  color: yellow;
+  padding: 1rem;
+  margin: 2rem;
+  font-family: san serif;
+  font-size: 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 span{
         padding: 5px 10px;
         outline: none; 
@@ -15,7 +32,8 @@ span{
         color: yellow;
         border-radius: 6px;
         background-color: maroon;
-        text-shadow: 1px 3px 1px;  
+        text-shadow: 1px 3px 1px;
+        margin-top: 2rem;  
 
 }
 
